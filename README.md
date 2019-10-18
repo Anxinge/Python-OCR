@@ -1,2 +1,2 @@
-# Xigge-Dev
-highly quality of code
+# OCR usging pytesseract and tkinter gui
+# invoice recoginition and text mining
